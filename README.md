@@ -226,12 +226,12 @@ public class TaskController {
 ## Snapshot ##
 1. Add Task : ![picture alt](https://github.com/krishnakanthati/todo/blob/master/snap/add.jpg "Add")
 
-2. Description of Table : ![picture alt](https://github.com/krishnakanthati/todo/blob/master/snap/desc.jpg, "Desc")
+2. Description of Table : ![picture alt](https://github.com/krishnakanthati/todo/blob/master/snap/desc.jpg "Desc")
 
-3. Home : ![picture alt](https://github.com/krishnakanthati/todo/blob/master/snap/home.jpg, "Home")
+3. Home : ![picture alt](https://github.com/krishnakanthati/todo/blob/master/snap/home.jpg "Home")
 
-4. Update : ![picture alt](https://github.com/krishnakanthati/todo/blob/master/snap/edit.jpg, "Update")
+4. Update : ![picture alt](https://github.com/krishnakanthati/todo/blob/master/snap/edit.jpg "Update")
 
-5. Delete : ![picture alt](https://github.com/krishnakanthati/todo/blob/master/snap/delete.jpg, "Delete")
+5. Delete : ![picture alt](https://github.com/krishnakanthati/todo/blob/master/snap/delete.jpg "Delete")
 
-6. Select :![picture alt](https://github.com/krishnakanthati/todo/blob/master/snap/select.jpg, "Select")
+6. Select :![picture alt](https://github.com/krishnakanthati/todo/blob/master/snap/select.jpg "Select")
